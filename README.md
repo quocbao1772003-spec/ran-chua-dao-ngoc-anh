@@ -2,7 +2,7 @@
 
 Game rắn mê cung bệnh viện, chạy hoàn toàn trong trình duyệt. Một file HTML duy nhất, không cần cài đặt, không cần mạng.
 
-**▶️ Chơi ngay:** https://<tên-github-của-bạn>.github.io/<tên-repo>/
+**▶️ Chơi ngay:** https://quocbao1772003-spec.github.io/ran-chua-dao-ngoc-anh/
 
 ## Cốt truyện
 
